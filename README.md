@@ -20,3 +20,11 @@ Steps:
         "password": "vikram"
     }'
     ```
+
+
+TODO:
+1. setup middleware for validation, usercontext, rolebasedaccess.
+2. Test cases.
+3. Logger for storing metadata for each request.
+4. Define Project structure modular based.
+    Eg - user, role based access control etc..
